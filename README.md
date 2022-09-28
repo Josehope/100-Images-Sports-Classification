@@ -19,14 +19,44 @@ The model was trained for #10 epoch, and after training, the model was tested on
 
 Below is the loss and accuracy curves plotted to get a visual representation of how the model performed
 
-![]()
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/loss.jpg?raw=true)
+
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/accuracy.jpg?raw=true)
+
 
 Below also is also the visual representation of how the model predict some images from the test dataset
 
-![]()
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/testing%20on%20test%20data.jpg?raw=true)
+
 
 Custom images were downloaded from the internet to test how well the model will perform in the wild when deployed, and the following images below were the results gotten from the test
 
-![]()
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/1.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/2.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/3.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/4.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/5.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/6.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/7.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/8.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/9.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/10.jpg?raw=true)
+
+![](https://github.com/Josehope/100-Images-Sports-Classification/blob/master/Screenshot/11.jpg?raw=true)
+
+
 
 
